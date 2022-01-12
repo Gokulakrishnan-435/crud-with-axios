@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "create": "yutfdgxcvbhj",
+      "id": 1
+    },
+    {
+      "create": "",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
